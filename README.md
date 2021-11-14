@@ -10,9 +10,9 @@ Page.png
 
 The web site can be filtered in five ways such as occurred date, country, state, city, and shape where people can narrow down the information as the need.
 
-### Search by City
+### - Search by City
 -Benton.png
-### All Filter
+### - All Filter
 -Filters. Png
 
 
