@@ -11,9 +11,9 @@ Dana is a data scientist and has given the opportunity to write about a town in 
 The web site can be filtered in five ways such as occurred date, country, state, city, and shape where people can narrow down the information as the need.
 
 ### - Search by City
--Benton.png
+![plot](./benton.png) 
 ### - All Filter
--Filters. Png
+![plot](./filters.png) 
 
 
 
