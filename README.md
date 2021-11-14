@@ -6,17 +6,18 @@ Dana is a data scientist and has given the opportunity to write about a town in 
 Page.png
 
 
-##Results: 
+## Results: 
+
 The web site can be filtered in five ways such as occurred date, country, state, city, and shape where people can narrow down the information as the need.
 
-###Search by City
+### Search by City
 -Benton.png
-###All Filter
+### All Filter
 -Filters. Png
 
 
 
-##Summary:
+## Summary:
 
 This website easily allows users to filter on the five different categories. There is one concern which is incorrect inputs (for example typo, a lot of the time people are not aware of their own error) might return ‘0’ search results. Two future recommendations for this project would be:
 1.	Connecting map into the website where users can visualize the locations of UFO sightings.
