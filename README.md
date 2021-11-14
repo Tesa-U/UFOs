@@ -3,8 +3,8 @@
 
 Dana is a data scientist and has given the opportunity to write about a town in Oregon that is famous by its UFOs sightings. She has a task to analyze the raw data about UFO related information such as countries, cities, states, type of sighting and display it on the web as dynamic table. To provide more in–depth analysis and allow users to find precise information they need she added several filters to the page. 
 
-Page.png
-
+![plot](./page.png)
+![plot](./Resources/2017.png) 
 
 ## Results: 
 
